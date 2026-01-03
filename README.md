@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Näf, from Switzerland, @naefdigital
 - 👀 I’m interested in Digitization, Process Automation, Low Code/NoCode
-- 🌱 I’m currently learning Power Apps, Power Automate
+- 🌱 I’m currently learning all around the Microsoft Power Platform and Mobile App Development with AI Development Tools. 
 - 📫 How to reach me: info@naef.digital or https://naef.digital
 
 <!---
